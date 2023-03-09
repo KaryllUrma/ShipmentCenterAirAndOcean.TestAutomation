@@ -1,0 +1,9 @@
+package enums;
+
+public enum Context {
+    RESPONSE_1,
+    RESPONSE_POST_NOTIFSUB,
+    RESPONSE_PUT_NOTIFSUB,
+    RESPONSE_ID_CREATESUB,
+    RESPONSE_ID_UPDATESUB;
+}
